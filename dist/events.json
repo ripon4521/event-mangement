@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Elegant Wedding",
+      "price": 3500.00,
+      "img": "https://i.ibb.co/MpGVQYc/home1-1024x576.jpg",
+      "short_description": "A dreamy wedding ceremony.",
+      "description": "Celebrate love with an elegant wedding. Memorable moments await you...."
+    },
+    {
+      "id": 2,
+      "title": "Birthday Bash",
+      "price": 500.00,
+      "img": "https://i.ibb.co/jHXmmG7/Birthday-Party.jpg",
+      "short_description": "Celebrate a special birthday.",
+      "description": "Make your birthday memorable with our fabulous bash. Joy and fun guaranteed...."
+    },
+    {
+      "id": 3,
+      "title": "Anniversary Extravaganza",
+      "price": 1200.00,
+      "img": "https://i.ibb.co/hDFhQYD/abiversary.jpg",
+      "short_description": "Marking a beautiful journey.",
+      "description": "Celebrate your journey with an extravagant anniversary. Love, laughter, and memories await...."
+    },
+    {
+      "id": 4,
+      "title": "Engagement Soiree",
+      "price": 800.00,
+      "img": "https://i.ibb.co/xs4p6DJ/Enagement.jpg",
+      "short_description": "Celebrate love and commitment.",
+      "description": "Announce your love with an elegant engagement soiree. A night to remember...."
+    },
+    {
+      "id": 5,
+      "title": "Retirement Celebration",
+      "price": 600.00,
+      "img": "https://i.ibb.co/3sfFNY7/Retairment.png",
+      "short_description": "Wish a happy retirement.",
+      "description": "Bid farewell to a colleague with a joyful retirement celebration. Best wishes ahead...."
+    },
+    {
+      "id": 6,
+      "title": "Baby Shower Bliss",
+      "price": 300.00,
+      "img": "https://i.ibb.co/ccN9qfj/baby.jpg",
+      "img_2":"https://i.ibb.co/3dbZk4B/babyshowe-1.jpg",
+      "img_3":"https://i.ibb.co/Tt0zw1s/babyshower2.jpg",
+      "short_description": "Welcoming a bundle of joy.",
+      "description": "Celebrate the upcoming arrival with a baby shower. Blessings, love, and laughter...."
+    }
+  ]
+  
